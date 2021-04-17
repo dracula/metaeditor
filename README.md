@@ -1,6 +1,6 @@
-# Dracula for [Metaeditor](https://www.metatrader5.com/pt/automated-trading/metaeditor)
+# Dracula for [MetaEditor](https://www.metatrader5.com/en/automated-trading/metaeditor)
 
-> A dark theme for [Metaeditor](https://www.metatrader5.com/pt/automated-trading/metaeditor).
+> A dark theme for [MetaEditor](https://www.metatrader5.com/en/automated-trading/metaeditor).
 
 ![Screenshot](./screenshot.png)
 
@@ -10,7 +10,7 @@ All instructions can be found at [draculatheme.com/metaeditor](https://draculath
 
 ## Team
 
-This theme is maintained by the following person(s) and a bunch of [awesome contributors](https://github.com/dracula/template/graphs/contributors).
+This theme is maintained by the following person(s) and a bunch of [awesome contributors](https://github.com/dracula/metaeditor/graphs/contributors).
 
 [![Abraão Moreira](https://github.com/AbraaoM.png?size=100)](https://github.com/AbraaoM) |
 --- |
